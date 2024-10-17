@@ -10,7 +10,7 @@ fun main() {
     val student2 = student?.apply{
         hi()
         bye()
-        name="karl"
+        name="iop"
     }
     println(student?.name)
     println(student2?.name)
